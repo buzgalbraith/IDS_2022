@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-03T17:45:59.799Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="5e0KvpmJi6Oq_Ctp-KE_" version="22.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-03T17:48:56.640Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="b3LhFpw_OQpXCMlg6VZ6" version="22.0.0" type="github">
   <diagram name="Page-1" id="OptNep50N4nJcta6pjEw">
-    <mxGraphModel dx="3420" dy="2183" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1865" dy="1191" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -147,7 +147,7 @@
             <mxPoint x="2210" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JaoUqpHkBibLqqUjb6aJ-54" value="Pro: Got to work with real ML experts, got to do robotics, continued learning about advanced methods, made me a lot more proficient as a programmer, got to work with MIT, Darpa and was a machine learning engineer at a boeing subsidiary&lt;br&gt;Con: Not in bio.&amp;nbsp;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+        <mxCell id="JaoUqpHkBibLqqUjb6aJ-54" value="Pro: Got to work with real ML experts, got to do robotics, continued learning about advanced methods, made me a lot more proficient as a programmer, got to work with MIT, Darpa and was a machine learning engineer at a Boeing subsidiary&lt;br&gt;Con: Not in bio.&amp;nbsp;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="2560" y="355" width="165" height="165" as="geometry" />
         </mxCell>
         <mxCell id="JaoUqpHkBibLqqUjb6aJ-55" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="JaoUqpHkBibLqqUjb6aJ-52" target="JaoUqpHkBibLqqUjb6aJ-54" edge="1">
@@ -157,7 +157,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="JaoUqpHkBibLqqUjb6aJ-56" value="Current Work" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2850" y="210" width="650" height="730" as="geometry" />
+          <mxGeometry x="2850" y="210" width="550" height="730" as="geometry" />
         </mxCell>
         <mxCell id="JaoUqpHkBibLqqUjb6aJ-57" value="Robot Masters CV Team" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="JaoUqpHkBibLqqUjb6aJ-56" vertex="1">
           <mxGeometry x="60" y="357.5" width="100" height="100" as="geometry" />
@@ -237,26 +237,32 @@
             <mxPoint x="2660" y="540" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="P7xZSsLNg7L9i4siEiXK-1" value="Letters of Recommendation" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="1970" y="820" width="110" height="110" as="geometry" />
+        <mxCell id="P7xZSsLNg7L9i4siEiXK-1" value="Letters of Recommendation" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="2250" y="890" width="110" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="P7xZSsLNg7L9i4siEiXK-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JaoUqpHkBibLqqUjb6aJ-17" target="P7xZSsLNg7L9i4siEiXK-1">
+        <mxCell id="P7xZSsLNg7L9i4siEiXK-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="JaoUqpHkBibLqqUjb6aJ-17" target="P7xZSsLNg7L9i4siEiXK-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1810" y="790" as="sourcePoint" />
             <mxPoint x="1860" y="740" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="P7xZSsLNg7L9i4siEiXK-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.697;entryY=0.011;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="JaoUqpHkBibLqqUjb6aJ-52" target="P7xZSsLNg7L9i4siEiXK-1">
+        <mxCell id="P7xZSsLNg7L9i4siEiXK-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.697;entryY=0.011;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="JaoUqpHkBibLqqUjb6aJ-52" target="P7xZSsLNg7L9i4siEiXK-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2310" y="470" as="sourcePoint" />
             <mxPoint x="2420" y="740" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="P7xZSsLNg7L9i4siEiXK-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1.06;entryY=0.361;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="JaoUqpHkBibLqqUjb6aJ-63" target="P7xZSsLNg7L9i4siEiXK-1">
+        <mxCell id="P7xZSsLNg7L9i4siEiXK-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1.06;entryY=0.361;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="JaoUqpHkBibLqqUjb6aJ-63" target="P7xZSsLNg7L9i4siEiXK-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2440" y="790" as="sourcePoint" />
             <mxPoint x="2490" y="740" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="bYP0GN23V7HIeH0-cy0Z-2" value="Potential Future Work" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3610" y="220" width="510" height="670" as="geometry" />
+        </mxCell>
+        <mxCell id="bYP0GN23V7HIeH0-cy0Z-3" value="Given all that info what connections can be made to potential future work, with researches at each place." style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="bYP0GN23V7HIeH0-cy0Z-2">
+          <mxGeometry x="100" y="102.5" width="257.5" height="257.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
